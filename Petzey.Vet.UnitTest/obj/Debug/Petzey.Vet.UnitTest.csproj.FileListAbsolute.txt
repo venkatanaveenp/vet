@@ -1,0 +1,15 @@
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\bin\Debug\Petzey.Vet.UnitTest.dll
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\bin\Debug\Petzey.Vet.UnitTest.pdb
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\obj\Debug\Petzey.Vet.UnitTest.csproj.AssemblyReference.cache
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\obj\Debug\Petzey.Vet.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\obj\Debug\Petzey.Vet.UnitTest.csproj.CopyComplete
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\obj\Debug\Petzey.Vet.UnitTest.dll
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.UnitTest\obj\Debug\Petzey.Vet.UnitTest.pdb

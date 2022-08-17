@@ -1,0 +1,12 @@
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.Model\bin\Debug\Petzey.Vet.Model.dll
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.Model\bin\Debug\Petzey.Vet.Model.pdb
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.Model\obj\Debug\Petzey.Vet.Model.csproj.AssemblyReference.cache
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.Model\obj\Debug\Petzey.Vet.Model.csproj.CoreCompileInputs.cache
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.Model\obj\Debug\Petzey.Vet.Model.dll
+C:\Users\venkatanaveen\Documents\Fresh\Vet.API\Petzey.Vet.API\Petzey.Vet.Model\obj\Debug\Petzey.Vet.Model.pdb
+C:\Users\Admin\Desktop\PetzyAPIs\Vet.API\Petzey.Vet.API\Petzey.Vet.Model\bin\Debug\Petzey.Vet.Model.dll
+C:\Users\Admin\Desktop\PetzyAPIs\Vet.API\Petzey.Vet.API\Petzey.Vet.Model\bin\Debug\Petzey.Vet.Model.pdb
+C:\Users\Admin\Desktop\PetzyAPIs\Vet.API\Petzey.Vet.API\Petzey.Vet.Model\obj\Debug\Petzey.Vet.Model.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PetzyAPIs\Vet.API\Petzey.Vet.API\Petzey.Vet.Model\obj\Debug\Petzey.Vet.Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PetzyAPIs\Vet.API\Petzey.Vet.API\Petzey.Vet.Model\obj\Debug\Petzey.Vet.Model.dll
+C:\Users\Admin\Desktop\PetzyAPIs\Vet.API\Petzey.Vet.API\Petzey.Vet.Model\obj\Debug\Petzey.Vet.Model.pdb
